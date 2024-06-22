@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+# gcc -Wall -Wextra -Werror -I./MLX -c main.c
+gcc main.c -L./MLX -I./MLX -lMLX -framework OpenGL -framework AppKit -o fdf

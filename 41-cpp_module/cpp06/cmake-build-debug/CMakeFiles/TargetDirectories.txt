@@ -1,0 +1,3 @@
+/Users/junji/42course/41-cpp_module/cpp06/cmake-build-debug/CMakeFiles/cpp06.dir
+/Users/junji/42course/41-cpp_module/cpp06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/junji/42course/41-cpp_module/cpp06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
